@@ -1,4 +1,4 @@
-AI student at CentraleSupélec.
+Final year student at CentraleSupélec.
 
 - 🔭 Currently working on Deep Reinforcement Learning for Spacecraft Active Debris Removal Mission Planning
 - 🌱 Currently learning about Deep Learning, NLP, Reinforcement Learning.
